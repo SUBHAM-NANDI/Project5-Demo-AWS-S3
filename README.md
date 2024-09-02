@@ -1,6 +1,6 @@
 # Project5-AWS-S3-Demo-Projects
 
-###Step-by-Step Guide: Managing S3 Bucket Access and Hosting a Static Website
+**Step-by-Step Guide: Managing S3 Bucket Access and Hosting a Static Website**
 ### **1. Managing S3 Bucket Access**
 
 This section covers how to restrict access to an S3 bucket, allowing only specific users (like the bucket owner) to have access.
